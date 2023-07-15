@@ -1,4 +1,4 @@
-#cryptocurrency website
+#website template
 
 - [Demo Project](https://arshiafarrokhi.github.io/project-2/)
 
