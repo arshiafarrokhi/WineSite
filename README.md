@@ -1,6 +1,6 @@
 #cryptocurrency website
 
-- [Demo Project](https://arshiafarrokhi.github.io/cryptocurrency/)
+- [Demo Project](https://arshiafarrokhi.github.io/project-2/)
 
 - Developed by arshia farrokhi
 
