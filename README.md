@@ -1,6 +1,6 @@
 #website template
 
-- [Demo Project](https://arshiafarrokhi.github.io/project-2/)
+- [Demo Project](https://arshiafarrokhi.github.io/WineSite/)
 
 - Developed by arshia farrokhi
 
